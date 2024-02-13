@@ -1,0 +1,12 @@
+# typical git_ignore file
+#
+env/
+_orig/
+*.h5
+*.mp4
+sampleProject/
+speedTestTrainingData/
+predictions.txt
+*backup*
+*.pyc
+*.log
