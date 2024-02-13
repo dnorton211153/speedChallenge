@@ -28,7 +28,7 @@ Unfinished GoLang code is also included, but it's not complete yet.
 
 The AI (keras/tensorflow/cv2) includes the Speed Test and Laneline Detection.  
 
-After the end user submits his MP4/similar video via the web form, the code in [speedTest](speedTest\speedTest\speedTestWithLanelines.py) will superimpose the detected Lanelines and speed predictions, upon the video.
+After the end user submits his MP4/similar video via the web form, the code in [speedTest](https://github.com/dnorton211153/speedChallenge/blob/main/speedTest/speedTest/speedTestWithLanelines.py) will superimpose the detected Lanelines and speed predictions, upon the video.
 
 Then it will display the resulting video to the user, in the response.
 
